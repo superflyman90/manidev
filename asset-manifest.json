@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/manidev/static/css/main.bde2564d.css",
-    "main.js": "/manidev/static/js/main.5d844f9b.js",
+    "main.css": "/manidev/static/css/main.c4fcaa9a.css",
+    "main.js": "/manidev/static/js/main.2b23203a.js",
     "index.html": "/manidev/index.html",
-    "main.bde2564d.css.map": "/manidev/static/css/main.bde2564d.css.map",
-    "main.5d844f9b.js.map": "/manidev/static/js/main.5d844f9b.js.map"
+    "main.c4fcaa9a.css.map": "/manidev/static/css/main.c4fcaa9a.css.map",
+    "main.2b23203a.js.map": "/manidev/static/js/main.2b23203a.js.map"
   },
   "entrypoints": [
-    "static/css/main.bde2564d.css",
-    "static/js/main.5d844f9b.js"
+    "static/css/main.c4fcaa9a.css",
+    "static/js/main.2b23203a.js"
   ]
 }

@@ -57,6 +57,11 @@ font-weight: 400;
 color: #{$title-color};
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .App{
   text-align: center;
 

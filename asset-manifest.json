@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/manidev/static/css/main.16f7fbf0.css",
+    "main.css": "/manidev/static/css/main.bde2564d.css",
     "main.js": "/manidev/static/js/main.5d844f9b.js",
     "index.html": "/manidev/index.html",
-    "main.16f7fbf0.css.map": "/manidev/static/css/main.16f7fbf0.css.map",
+    "main.bde2564d.css.map": "/manidev/static/css/main.bde2564d.css.map",
     "main.5d844f9b.js.map": "/manidev/static/js/main.5d844f9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.16f7fbf0.css",
+    "static/css/main.bde2564d.css",
     "static/js/main.5d844f9b.js"
   ]
 }
